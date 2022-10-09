@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Czse0L2NkQ/isL1GL2TdZqpYmBwuwz4pYcgmeREH8xY=",
+  "Source": "PACT-TestingTest",
+  "BasePath": "_content/PACT-TestingTest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
